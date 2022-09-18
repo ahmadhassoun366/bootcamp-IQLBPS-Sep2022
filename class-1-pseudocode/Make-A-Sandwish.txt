@@ -1,0 +1,35 @@
+Pseudo code 
+
+stand up
+go left 
+Enter the kitchen
+turn on the light
+Search for bread 
+
+if found 
+    get the bread out of the fridge 
+    cook the meet 
+    put cheese on the top
+    get the knife 
+    slice tomatos,spice and cucumber.
+    put the vegetables on the bread
+    add sauce.
+    Eat the sandwish
+
+else
+
+    go to the supermarket
+
+elseif found 
+    buy bread to make a sandwish
+    back to home
+    cook the meet 
+    put cheese on the top 
+    get the knife 
+    slice tomatos,spice and cucumber.
+    put the vegetables on the bread
+    add sauce.
+    Eat the sandwish.
+
+else 
+    buy a sandwish from Resturant
