@@ -1,0 +1,14 @@
+Pseudo code 
+
+
+N = input from the user
+
+for every element in N 
+    if the element is even print the element.
+
+2) N = input from 1 to 10 
+
+For every x in N
+    For every y below element and above 1
+        If( x can be divided over y ) then it is  not prime
+        If( x cant be divided over y) continue checking
